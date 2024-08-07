@@ -1,0 +1,14 @@
+C:\Users\jay_c\Downloads\dll\dll\bin\Debug\net8.0\dll.exe
+C:\Users\jay_c\Downloads\dll\dll\bin\Debug\net8.0\dll.deps.json
+C:\Users\jay_c\Downloads\dll\dll\bin\Debug\net8.0\dll.runtimeconfig.json
+C:\Users\jay_c\Downloads\dll\dll\bin\Debug\net8.0\dll.dll
+C:\Users\jay_c\Downloads\dll\dll\bin\Debug\net8.0\dll.pdb
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.AssemblyInfoInputs.cache
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.AssemblyInfo.cs
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.csproj.CoreCompileInputs.cache
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.dll
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\refint\dll.dll
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.pdb
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\dll.genruntimeconfig.cache
+C:\Users\jay_c\Downloads\dll\dll\obj\Debug\net8.0\ref\dll.dll

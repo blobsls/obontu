@@ -1,0 +1,59 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Users\jay_c\Downloads\c  basic\builds\constant\Debug\net8.0\~apphost.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Users\jay_c\Downloads\c  basic\builds\constant\Debug\net8.0\~apphost_LAYOUT.INF
+.Set RptFileName=C:\Users\jay_c\Downloads\c  basic\builds\constant\Debug\net8.0\~apphost.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\example.cb
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\grammar.txt
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\basic.py
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\shell.py
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\STRING~1.PY
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\cdp.exe
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\PASKAL.pdb
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\Pasks.dll
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\CBASIC~1.PDB
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\CBASIC~1.DLL
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\CDNDEP~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\DLLDEP~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\DLLRUN~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\MODSRU~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\c_sets\customs.pdb
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\c_sets\dll.dll
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\c_sets\JSONEN~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\debug\c_sets\PST.exe
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\DLLCSP~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\DLLCSP~1.PRO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\DLLCSP~1.TAR
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\PROJEC~1.JSO
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\PROJEC~1.CAC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLCSP~1.TXT
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLGEN~1.CAC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\apphost.exe
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLCSP~1.BUI
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\dll.pdb
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLCSP~1.CAC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLASS~2.CAC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\NETCOR~1.CS
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLASS~1.CS
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLASS~1.CAC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLGEN~1.EDI
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Debug\net8.0\DLLGLO~1.CS
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Release\net8.0\PUBLIS~2.TXT
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\builds\constant\Release\net8.0\PUBLIS~1.TXT
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\__PYCA~1\BASICC~1.PYC
+C:\Users\jay_c\DOWNLO~1\CBASIC~1\__PYCA~1\STRING~1.PYC

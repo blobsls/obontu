@@ -1,0 +1,5 @@
+C:\Users\jay_c\Downloads\c  basic\builds\debug\c_sets\dll.exe
+C:\Users\jay_c\Downloads\c  basic\builds\debug\c_sets\dll.dll
+C:\Users\jay_c\Downloads\c  basic\builds\debug\c_sets\dll.deps.json
+C:\Users\jay_c\Downloads\c  basic\builds\debug\c_sets\dll.runtimeconfig.json
+C:\Users\jay_c\Downloads\c  basic\builds\debug\c_sets\dll.pdb
